@@ -32,8 +32,6 @@ docker run --name game-ms-pg -e POSTGRES_PASSWORD=pg-pwd -e POSTGRES_USER=pg-use
 
 ### Mongo
 
-Install Mongo with docker:
+Install Mongo or with docker:
 
-```bash
-docker run --name question-ms-mongo -d -e MONGO_INITDB_ROOT_USERNAME=mongo-user -e MONGO_INITDB_ROOT_PASSWORD=mongo-pwd -p 27017:27017 mongo
-```
+https://hub.docker.com/_/mongo
