@@ -30,7 +30,7 @@ docker run --name game-ms-pg -e POSTGRES_PASSWORD=pg-pwd -e POSTGRES_USER=pg-use
 
 ## Question microservice
 
-### Mongon
+### Mongo
 
 Install Mongo with docker:
 
