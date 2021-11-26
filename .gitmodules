@@ -1,0 +1,9 @@
+[submodule "question-ms"]
+	path = question-ms
+	url = git@github.com:joris-gallot/question-ms.git
+[submodule "game-ms"]
+	path = game-ms
+	url = git@github.com:joris-gallot/game-ms.git
+[submodule "authentication-ms"]
+	path = authentication-ms
+	url = git@github.com:joris-gallot/authentication-ms.git
