@@ -1,5 +1,7 @@
 # Prerequisites
 
+Auteurs: JORIS GALLOT, ALEXIS COINET, QUENTIN DUCHESNE
+
 ## Rabbitmq
 
 Install rabbitmq or with docker:
